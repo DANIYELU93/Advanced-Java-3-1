@@ -92,3 +92,36 @@ import java.sql.*;
 }
 
 
+
+
+
+
+output:
+Records in Forward Direction:
+RollNo	Name		Address
+------------------------------
+1	Ravi		Hyderabad
+2	Sita		Delhi
+4	Meena		Pune
+5	Ramesh		Mumbai
+
+Records in Backward Direction:
+RollNo	Name		Address
+------------------------------
+5	Ramesh		Mumbai
+4	Meena		Pune
+2	Sita		Delhi
+1	Ravi		Hyderabad
+
+First Record:
+Row 1: 1	Ravi		Hyderabad
+
+Last Record:
+Row 4: 5	Ramesh		Mumbai
+
+2nd Record from Last:
+Row 3: 4	Meena		Pune
+
+2nd Record from Beginning:
+Row 2: 2	Sita		Delhi
+
