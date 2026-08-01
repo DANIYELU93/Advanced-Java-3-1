@@ -41,3 +41,9 @@ class UResultSet{
     }
 }
 }
+
+
+
+OUTPIT:
+Last student record deleted successfully.
+New student record inserted successfully.
