@@ -95,7 +95,7 @@ import java.sql.*;
 
 
 
-
+/*
 output:
 Records in Forward Direction:
 RollNo	Name		Address
@@ -124,4 +124,4 @@ Row 3: 4	Meena		Pune
 
 2nd Record from Beginning:
 Row 2: 2	Sita		Delhi
-
+*/
